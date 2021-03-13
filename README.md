@@ -6,4 +6,4 @@ Voici le lien source : https://www.fil.univ-lille1.fr/~routier/enseignement/lice
 
 Vous y retrouverez les consignes et les diverses fonctionnalités a réalisés.
 
-Ce projet a été réalisé en HTML, CSS et en Vanilla JS dans le but de monter en compétence .
+Ce projet a été réalisé en HTML, CSS et en Vanilla JS dans le but de monter en compétence dans la manipulation du DOM.
